@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **react**
 
-- 👯 I’m looking to collaborate on **@KishanMishra1**
-
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **dasankush1511@gmail.com**
 
